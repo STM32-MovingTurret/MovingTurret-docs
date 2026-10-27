@@ -1,5 +1,7 @@
 # STM32 미니 프로젝트
 
+[API 수정 바로가기](https://docs.google.com/spreadsheets/d/1TEacHmrS2dYbS4jbyWSt0aoXYp3nCvNC9xEb4Ws6MVk/edit?gid=0#gid=0)  
+
 ---
 
 - **주제:** 자유주제
